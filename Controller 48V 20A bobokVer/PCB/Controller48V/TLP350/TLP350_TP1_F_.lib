@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TLP350_TP1,F_
+#/931073/1003074/2.50/8/3/Integrated Circuit
+DEF TLP350_TP1,F_ IC 0 30 Y Y 1 F N
+F0 "IC" 1450 300 50 H V L CNN
+F1 "TLP350_TP1,F_" 1450 200 50 H V L CNN
+F2 "DIP762W60P254L966H485Q8N" 1450 100 50 H I L CNN
+F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=6217&prodName=TLP350" 1450 0 50 H I L CNN
+F4 "Optocoupler Drive Push-Pull 1-CH 30V 1000V 8-Pin PDIP SMD T/R" 1450 -100 50 H I L CNN "Description"
+F5 "4.85" 1450 -200 50 H I L CNN "Height"
+F6 "757-TLP350(TP1,F)" 1450 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Toshiba/TLP350TP1F?qs=f0GatGUIxV3mNWWzK5NBiQ%3D%3D" 1450 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Toshiba" 1450 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TLP350(TP1,F)" 1450 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X N.C._1 1 0 0 200 R 50 50 0 0 P
+X A 2 0 -100 200 R 50 50 0 0 P
+X K 3 0 -200 200 R 50 50 0 0 P
+X N.C._2 4 0 -300 200 R 50 50 0 0 P
+X VCC 8 1600 0 200 L 50 50 0 0 P
+X N.C._3 7 1600 -100 200 L 50 50 0 0 P
+X VO_(OUTPUT) 6 1600 -200 200 L 50 50 0 0 P
+X GND 5 1600 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1400 100 1400 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

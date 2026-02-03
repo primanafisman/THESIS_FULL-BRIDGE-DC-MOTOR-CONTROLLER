@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLP350_TP1,F_
+D Optocoupler Drive Push-Pull 1-CH 30V 1000V 8-Pin PDIP SMD T/R
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=6217&prodName=TLP350
+$ENDCMP
+#
+#End Doc Library
